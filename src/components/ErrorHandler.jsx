@@ -6,7 +6,6 @@ export default () => {
 
   const goBackLink = () => {
     navigate(-1);
-    navigate(-1);
   }
 
   return (

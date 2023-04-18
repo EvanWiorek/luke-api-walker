@@ -51,7 +51,7 @@ export default ({
     <div className="navbar-body">
       <div className="card-body d-flex justify-content-between m-auto col-9">
         <h1 className="site-title text-warning">
-          <a href="/">Luke APi Walker</a>
+          <a href="/luke-api-walker">Luke APi Walker</a>
         </h1>
         <form
           className="form-body d-flex justify-content-evenly col-6 align-items-center"
